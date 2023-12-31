@@ -1,4 +1,4 @@
-#Bienvenido a mi rincón digital 👋
+### Bienvenido a mi rincón digital 👋
 ¡Hola! Soy [Sergio], estudiante de segundo año de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 🚀 Sobre Mí:
